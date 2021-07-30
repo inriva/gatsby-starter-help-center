@@ -1,12 +1,25 @@
-- name: Get Started
+- name: Einstieg
   slug: getting-started
-  description: How to start using this Gatsby theme for your product's help center
+  description: Arbeiten mit dem inriva Karriereportal
   image: /images/getting-started.svg
 - name: FAQs
   slug: faqs
-  description: Frequently asked questions about this theme (according to projections)
+  description: Häufig gestellte Fragen
   image: /images/faqs.svg
 - name: Tutorials
   slug: tutorials
-  description: Step-by-step guides for customizing bits of this theme
+  description: Schritt-für-Schritt-Anleitungen
   image: /images/tutorials.svg
+- name: Einstellungen
+  slug: settings
+  description: Erweiterte Einstellungen
+  image: /images/tutorials.svg
+- name: Business Central
+  slug: businesscentral
+  description: Einstieg in die Business-Central-App
+  image: /images/tutorials.svg  
+- name: Power Plattform
+  slug: powerplatform
+  description: Einstieg in die Microsoft Power-Plattform
+  image: /images/tutorials.svg
+
